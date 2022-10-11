@@ -30,5 +30,5 @@ par exemple : commande pour lancer le serveur symfony
 
 ![Page d'accueil](./img/toto.png)
 
-Pour plus d'information : https://www.markdownguide.org/cheat-sheet
+Pour plus d'information : https://www.markdownguide.org/cheat-sheet ainsi que https://github.com/markdown-templates/markdown-emojis
 
